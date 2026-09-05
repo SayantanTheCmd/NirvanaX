@@ -4,7 +4,7 @@
 <div align="center">
   
   # <img width="100" height="100" alt="NirvanaX - Copy" src="https://github.com/user-attachments/assets/b38d4adf-483c-43c1-b65b-4e360790d26a" />
- NirvanaX (52) – The Ultimate Cross-Platform Personal AI Assistant
+ NirvanaX  – The Ultimate Cross-Platform Personal AI Assistant
   
   **A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.**
   
@@ -85,7 +85,7 @@ It's not just an assistant — it's an extension of your digital life.
 <br>
 
 <div align="center">
-  > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@SayantanTheCmd)**
+
 </div>
 
 <br>
@@ -123,8 +123,3 @@ python main.py
 </div>
 
 ---
-
-## 💡 Notes
-
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**. Personal and non-commercial use only.  
-⭐ **Star the repository to support the journey to Mark 100.**
