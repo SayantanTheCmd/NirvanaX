@@ -1,6 +1,9 @@
+
+
+
 <div align="center">
   
-  # <img width="100" height="100" alt="NirvanaX" src="https://github.com/user-attachments/assets/911dc20f-693d-4249-90ad-be3f43f3251e" />
+  # <img width="100" height="100" alt="NirvanaX - Copy" src="https://github.com/user-attachments/assets/b38d4adf-483c-43c1-b65b-4e360790d26a" />
  NirvanaX (52) – The Ultimate Cross-Platform Personal AI Assistant
   
   **A real-time voice AI that can hear, see, understand, and control your computer — on any OS. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.**
